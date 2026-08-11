@@ -60,6 +60,13 @@ The Power BI dashboard contains:
 - Top Product Analysis
 - Business Insights
 - Recommendations
+  ## 📸 Dashboard Preview
+
+### Dashboard
+![Business Sales Dashboard](future_ds_screenshot_desh_01.png)
+
+### Insights & Recommendations
+![Insights and Recommendations](future_ds_screenshot_01.png)
 
 ## 📁 Project Files
 
